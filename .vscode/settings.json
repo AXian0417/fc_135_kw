@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "app.h": "c",
+        "keyboard.h": "c",
+        "basic_time.h": "c",
+        "bidc300100.h": "c",
+        "fc_control.h": "c",
+        "s32_can.h": "c",
+        "can_manager.h": "c",
+        "fc_managar.h": "c",
+        "fc_manager.h": "c",
+        "fc135kw.h": "c",
+        "define_io.h": "c",
+        "toyota60kw.h": "c"
+    }
+}

@@ -1,0 +1,15 @@
+[submodule "Sources/can_manager"]
+	path = Sources/can_manager
+	url = https://github.com/AXian0417/can_manager.git
+[submodule "Sources/basic_time"]
+	path = Sources/basic_time
+	url = https://github.com/AXian0417/basic_time.git
+[submodule "Sources/keyboard"]
+	path = Sources/keyboard
+	url = https://github.com/AXian0417/keyboard.git
+[submodule "Sources/s32_can"]
+	path = Sources/s32_can
+	url = https://github.com/bladehgreen/s32_can.git
+[submodule "Sources/s32_uart"]
+	path = Sources/s32_uart
+	url = https://github.com/bladehgreen/s32_uart.git
